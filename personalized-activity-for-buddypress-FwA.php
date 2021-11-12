@@ -9,7 +9,7 @@
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 **/
 
-function personalized_activity_for_buddypress_FfFwA_args( $args ) {
+function personalized_activity_for_buddypress_FwA_args( $args ) {
 	
 	if( ! bp_is_activity_directory() || !  is_user_logged_in() ) {
 		return $args;
