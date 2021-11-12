@@ -1,6 +1,6 @@
 <?php
 /**
-* Plugin Name: Personalized Activity for Buddypress fwa
+* Plugin Name: Personalized Activity for Buddypress - Following & Admin
 * Description: Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Following And Administrator of Your Community.
 * Version: 1.0.2
 * Author: Cromacio
