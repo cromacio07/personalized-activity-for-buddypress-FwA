@@ -1,4 +1,4 @@
-=== Personalized Activity for Buddypress fwa ===
+=== Personalized Activity for Buddypress - Following & Admin ===
 Contributors: Cromacio
 Tags: buddypress, community, social network
 Requires at least: 5.5
