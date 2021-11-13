@@ -9,24 +9,23 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
  
 === Description ===
  
-Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Following And Administrator of Your Community.
+==Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Following And Administrator of Your Community.==
  
 === Installation ===
  
-1. Upload the plugin folder to your /wp-content/plugins/ folder.
-1. Go to the **Plugins** page and activate the plugin.
+==1. Upload the plugin folder to your /wp-content/plugins/ folder.==
+==2. Go to the **Plugins** page and activate the plugin.==
  
 === Frequently Asked Questions ===
  
-=== How do I use this plugin? ===
+== How do I use this plugin? ==
  
-Just Keep the Plugin Activated, And Rest All will Be Taken Care by Us..!!
+==Just Keep the Plugin Activated, And Rest All will Be Taken Care by Us..!!==
  
-=== How to uninstall the plugin? ===
+== How to uninstall the plugin? ==
  
-Simply deactivate and delete the plugin. 
+==Simply deactivate and delete the plugin. ==
  
-
 === Changelog ===
 == 1.0.3 ==
 * Plugin released. 
